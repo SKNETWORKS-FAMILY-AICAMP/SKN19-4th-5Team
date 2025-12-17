@@ -172,16 +172,16 @@ Planny에서는 '24시간 AI 식물 주치의' 시스템을 통해 반려식물�
 <br><br>
 
 ## 요구사항 명세서
-<img width="1077" height="758" alt="스크린샷 2025-12-17 오후 12 19 15" src="https://github.com/user-attachments/assets/a9ced845-6115-4d23-8216-2a7a0f271304" />
-<img width="1078" height="733" alt="스크린샷 2025-12-17 오후 12 19 30" src="https://github.com/user-attachments/assets/1b371081-d58e-418d-a3d2-14e02cae31c1" />
-<img width="1078" height="732" alt="스크린샷 2025-12-17 오후 12 19 38" src="https://github.com/user-attachments/assets/28a82840-2d82-4c03-9191-a00b5c1d26bd" />
-<img width="1078" height="732" alt="스크린샷 2025-12-17 오후 12 19 48" src="https://github.com/user-attachments/assets/cc336cc5-5482-4551-920e-bbf6a44b7ceb" />
+
+<img width="800" height="650" alt="스크린샷 2025-12-17 172628" src="https://github.com/user-attachments/assets/8f750216-c2e6-41a0-9903-6d020df8b886" />
+
+<img width="800" height="700" alt="스크린샷 2025-12-17 172717" src="https://github.com/user-attachments/assets/0bf5c930-be0c-4555-a490-9971d929944a" />
+
 
 
 <br><br>
 
 ## 화면 설계서
-[화면 설계서](https://docs.google.com/presentation/d/1e-I648hJdcaXPNDTfmSLPdfmDvMyZGAN/edit?usp=sharing&ouid=115443250380758652577&rtpof=true&sd=true)
 
 ![슬라이드1](https://github.com/user-attachments/assets/a37367e9-daaf-47f9-80a9-fe32b7092a47)
 
