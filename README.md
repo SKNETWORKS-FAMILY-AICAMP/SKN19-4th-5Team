@@ -181,8 +181,6 @@ Planny에서는 '24시간 AI 식물 주치의' 시스템을 통해 반려식물�
 <br><br>
 
 ## 화면 설계서
-
-<img width="1000" alt="화면 설계서" src="#" />
 [화면 설계서](https://docs.google.com/presentation/d/1e-I648hJdcaXPNDTfmSLPdfmDvMyZGAN/edit?usp=sharing&ouid=115443250380758652577&rtpof=true&sd=true)
 
 ![슬라이드1](https://github.com/user-attachments/assets/a37367e9-daaf-47f9-80a9-fe32b7092a47)
