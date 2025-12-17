@@ -184,11 +184,17 @@ Planny에서는 '24시간 AI 식물 주치의' 시스템을 통해 반려식물�
 
 <img width="1000" alt="화면 설계서" src="#" />
 [화면 설계서](https://docs.google.com/presentation/d/1e-I648hJdcaXPNDTfmSLPdfmDvMyZGAN/edit?usp=sharing&ouid=115443250380758652577&rtpof=true&sd=true)
+
 ![슬라이드1](https://github.com/user-attachments/assets/a37367e9-daaf-47f9-80a9-fe32b7092a47)
+
 ![슬라이드2](https://github.com/user-attachments/assets/d01e6740-1a48-4458-9615-3de7f6497ba5)
+
 ![슬라이드3](https://github.com/user-attachments/assets/7498d0f5-fe43-42a6-a638-824af907edfe)
+
 ![슬라이드4](https://github.com/user-attachments/assets/b42828d9-2a94-43ee-84e4-3c45f0d8e035)
+
 ![슬라이드5](https://github.com/user-attachments/assets/c5a9d0b0-4e1f-4105-8c0f-0fe0c6fcbea0)
+
 ![슬라이드6](https://github.com/user-attachments/assets/8c1f6085-75e5-40be-b08e-57f516dda4e4)
 
 
